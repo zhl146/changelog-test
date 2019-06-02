@@ -1,2 +1,2 @@
 # changelog-test
-a test repo for generating changelogs for unreleased changed
+a test repo for generating changelogs for unreleased changes
